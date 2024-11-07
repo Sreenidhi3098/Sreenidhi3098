@@ -5,7 +5,7 @@
 - 👨🏻‍💻 Looking to collaborate on meaningful data projects that make a difference!
 - 📫 Let's connect on LinkedIn [LinkedIn](https://www.linkedin.com/in/sreenidhi-chintala)
   
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: She/Her
 - ⚡ Data-Driven Humor: Why did the data analyst go to therapy? 
                       - To work through all the unresolved queries!
 
