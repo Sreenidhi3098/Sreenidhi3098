@@ -3,7 +3,7 @@
 - 🎓 UCONN Grad in Business Analytics | Former Sr. Data Analyst at Accenture
 - 🌱 I’m currently honing my skills in advanced data visualization and automation.
 - 👨🏻‍💻 Looking to collaborate on meaningful data projects that make a difference!
-- 📫 Let's connect on LinkedIn [LinkedIn](https://www.linkedin.com/in/sreenidhi-chintala)
+- 📫 Let's connect on LinkedIn [LinkedIn](www.linkedin.com/in/sreenidhi-chintala-831a15212)
   
 - 😄 Pronouns: She/Her
 - ⚡ Data-Driven Humor: Why did the data analyst go to therapy? 
